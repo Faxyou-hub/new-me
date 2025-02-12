@@ -2,12 +2,12 @@
     import { ref } from "vue";
     
     const projects = ref([
-        { title: "Portfolio Website", description: "A modern portfolio built with Vue and Tailwind.", image: "/src/assets/work.png", link: "#" },
-        { title: "E-Commerce App", description: "An online store with a smooth UI and secure checkout.", image: "/src/assets/work.png", link: "#" },
-        { title: "Business Landing Page", description: "A high-converting landing page for businesses.", image: "/src/assets/work.png", link: "#" },
-        { title: "Social Media App", description: "A mobile-friendly social media application.", image: "/src/assets/work.png", link: "#" },
-        { title: "CMS Dashboard", description: "An admin panel for content management systems.", image: "/src/assets/work.png", link: "#" },
-        { title: "SEO Analytics Tool", description: "A tool for tracking website performance.", image: "/src/assets/work.png", link: "#" }
+        { title: "Portfolio Website", description: "A modern portfolio built with Vue and Tailwind.", image: "/src/assets/work1.png", link: "#" },
+        { title: "E-Commerce App", description: "An online store with a smooth UI and secure checkout.", image: "/src/assets/work1.png", link: "#" },
+        { title: "Business Landing Page", description: "A high-converting landing page for businesses.", image: "/src/assets/work1.png", link: "#" },
+        { title: "Social Media App", description: "A mobile-friendly social media application.", image: "/src/assets/work1.png", link: "#" },
+        { title: "CMS Dashboard", description: "An admin panel for content management systems.", image: "/src/assets/work1.png", link: "#" },
+        { title: "SEO Analytics Tool", description: "A tool for tracking website performance.", image: "/src/assets/work1.png", link: "#" }
     ]);
 </script>
 
